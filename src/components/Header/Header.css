@@ -1,0 +1,5 @@
+#navbar a.active{
+    color: rgb(16 185 129);
+    font-weight: bold;
+    background-color: aliceblue;
+}
